@@ -25,63 +25,63 @@ __webpack_require__.r(__webpack_exports__);
 
 
 const petsInfo = [{
-  name: "GIANT PANDAS",
-  place: "Native to Southwest China",
+  name: "ГИГАНТСКИЕ ПАНДЫ",
+  place: "Родом из Китая",
   photo: "assets/giant-pandas.png",
   food: "assets/banana-bamboo_icon.svg"
 }, {
-  name: "EAGLES",
-  place: "Native to South America",
+  name: "ОРЛЫ",
+  place: "Родом из Южной Америки",
   photo: "assets/eagles.png",
   food: "assets/meet-fish_icon.svg"
 }, {
-  name: "GORILLAS",
-  place: "Native to Congo",
+  name: "ГОРИЛЛЫ",
+  place: "Родом из Конго",
   photo: "assets/gorillas.png",
   food: "assets/banana-bamboo_icon.svg"
 }, {
-  name: "TWO-TOED SLOTH",
-  place: "Mesoamerica, South America",
+  name: "ДВУПАЛЫЙ ЛЕНЕНИЦ",
+  place: "Южная Америка",
   photo: "assets/two-toed-sloth.png",
   food: "assets/banana-bamboo_icon.svg"
 }, {
-  name: "CHEETAHS",
-  place: "Native to Africa",
+  name: "ГЕПАРДЫ",
+  place: "Родом из Африки",
   photo: "assets/cheetahs.png",
   food: "assets/meet-fish_icon.svg"
 }, {
-  name: "PENGUINS",
-  place: "Native to Antarctica",
+  name: "ПИНГВИНЫ",
+  place: "Родом из Антарктики",
   photo: "assets/penguins.png",
   food: "assets/meet-fish_icon.svg"
 }, {
-  name: "SIBERIAN TIGER",
-  place: "Native to Russian Far East",
+  name: "СИБИРСКИЙ ТИГР",
+  place: "Родом из Дальнего Востока",
   photo: `${_assets_pets_siberian_tiger_jpg__WEBPACK_IMPORTED_MODULE_0__}`,
   food: "assets/meet-fish_icon.svg"
 }, {
-  name: "GRIZZLY BEAR",
-  place: 'Native to North America',
+  name: "МЕДВЕДЬ ГРИЗЛИ",
+  place: 'Родом из Северной Америки',
   photo: `${_assets_pets_grizzly_bear_jpg__WEBPACK_IMPORTED_MODULE_1__}`,
   food: "assets/meet-fish_icon.svg"
 }, {
-  name: 'ASIAN ELEPHANT',
-  place: 'Native to India and Southeast Asia',
+  name: 'АЗИАТСКИЙ СЛОН',
+  place: 'Родом из Индии и Юго-Восточной Азии',
   photo: `${_assets_pets_asian_elephant_jpg__WEBPACK_IMPORTED_MODULE_2__}`,
   food: 'assets/banana-bamboo_icon.svg'
 }, {
-  name: 'GREY WOLF',
-  place: 'Native to Eurasia and North America',
+  name: 'СЕРЫЙ ВОЛК',
+  place: 'Родом из Евразии и Северной Америки',
   photo: `${_assets_pets_wolf_webp__WEBPACK_IMPORTED_MODULE_3__}`,
   food: "assets/meet-fish_icon.svg"
 }, {
-  name: 'MEERKAT',
-  place: 'Native to Southern Africa',
+  name: 'СУРИКАТ',
+  place: 'Родом из Южной Африки',
   photo: `${_assets_pets_meerkat_jpg__WEBPACK_IMPORTED_MODULE_4__}`,
   food: "assets/banana-bamboo_icon.svg"
 }, {
-  name: 'CHICKEN',
-  place: 'Originally from Southeastern Asia',
+  name: 'КУРИЦА',
+  place: 'Родом из Юго-Восточной Азии',
   photo: `${_assets_pets_chicken_jpg__WEBPACK_IMPORTED_MODULE_5__}`,
   food: 'assets/banana-bamboo_icon.svg'
 }];
@@ -119,72 +119,71 @@ __webpack_require__.r(__webpack_exports__);
 
 
 const userInfo = [{
-  name: 'Michael John',
+  name: 'Михаил Круг',
   photo: `${_assets_users_user_icon_svg__WEBPACK_IMPORTED_MODULE_0__}`,
-  from: 'Local Austria',
-  time: 'Today',
-  text: "The best online zoo I’ve met. My son delighted very much ljves to watch gouillas. Online zoo is one jf the ways to instill a love for animals.The best online zoo I’ve met. My son delighted very much ljves to watch gouillas. Online zoo is one jf the ways to instill a love for animals.<br>The best online zoo I’ve met. My son delighted very much ljves to watch gouillas. Online zoo is one jf the ways to instill a love for animals.The best online zoo I’ve met. My son delighted very much ljves to watch gouillas.<br>Online zoo is"
+  from: 'Локальная Австрия',
+  time: 'Сегодня',
+  text: "Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами. Онлайн-зоопарк — это один из способов привить любовь к животным. Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами. Онлайн-зоопарк — это один из способов привить любовь к животным.<br>Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами. Онлайн-зоопарк — это один из способов привить любовь к животным. Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами.<br>Онлайн-зоопарк — это"
 }, {
-  name: 'Oskar Samborsky',
+  name: 'Джон Паул',
   photo: `${_assets_users_user_2_png__WEBPACK_IMPORTED_MODULE_1__}`,
-  from: 'Belgium',
-  time: 'Today',
-  text: "The best online zoo I’ve met. My son delighted very much ljves to watch gouillas. Online zoo is one jf the ways to instill a love for animals.The best online zoo I’ve met. My son delighted very much ljves to watch gouillas. Online zoo is one jf the ways to instill a love for animals.<br>The best online zoo I’ve met. My son delighted very much ljves to watch gouillas. Online zoo is one jf the ways to instill a love for animals.The best online zoo I’ve met. My son delighted very much ljves to watch gouillas.<br>Online zoo is"
+  from: 'Бельгия',
+  time: 'Сегодня',
+  text: "Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами. Онлайн-зоопарк — это один из способов привить любовь к животным. Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами. Онлайн-зоопарк — это один из способов привить любовь к животным.<br>Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами. Онлайн-зоопарк — это один из способов привить любовь к животным. Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами.<br>Онлайн-зоопарк — это"
 }, {
-  name: 'Fredericka Michelin',
+  name: 'Фредерика',
   photo: `${_assets_users_user_3_png__WEBPACK_IMPORTED_MODULE_2__}`,
-  from: 'France',
-  time: 'Today',
-  text: "The best online zoo I’ve met. My son delighted very much ljves to watch gouillas. Online zoo is one jf the ways to instill a love for animals.The best online zoo I’ve met. My son delighted very much ljves to watch gouillas. Online zoo is one jf the ways to instill a love for animals.<br>The best online zoo I’ve met. My son delighted very much ljves to watch gouillas. Online zoo is one jf the ways to instill a love for animals.The best online zoo I’ve met. My son delighted very much ljves to watch gouillas.<br>Online zoo is"
+  from: 'Франция',
+  time: 'Сегодня',
+  text: "Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами. Онлайн-зоопарк — это один из способов привить любовь к животным. Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами. Онлайн-зоопарк — это один из способов привить любовь к животным.<br>Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами. Онлайн-зоопарк — это один из способов привить любовь к животным. Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами.<br>Онлайн-зоопарк — это"
 }, {
   name: 'Mila Riksha',
   photo: `${_assets_users_user_4_png__WEBPACK_IMPORTED_MODULE_3__}`,
-  from: 'England',
-  time: 'Today',
-  text: "The best online zoo I’ve met. My son delighted very much ljves to watch gouillas. Online zoo is one jf the ways to instill a love for animals.The best online zoo I’ve met. My son delighted very much ljves to watch gouillas. Online zoo is one jf the ways to instill a love for animals.<br>The best online zoo I’ve met. My son delighted very much ljves to watch gouillas. Online zoo is one jf the ways to instill a love for animals.The best online zoo I’ve met. My son delighted very much ljves to watch gouillas.<br>Online zoo is"
+  from: 'Англия',
+  time: 'Сегодня',
+  text: "Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами. Онлайн-зоопарк — это один из способов привить любовь к животным. Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами. Онлайн-зоопарк — это один из способов привить любовь к животным.<br>Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами. Онлайн-зоопарк — это один из способов привить любовь к животным. Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами.<br>Онлайн-зоопарк — это"
 }, {
-  name: 'Camilla Cristiana',
+  name: 'Камила Кристиана',
   photo: `${_assets_users_user_5_jpg__WEBPACK_IMPORTED_MODULE_4__}`,
-  from: 'Spain',
-  time: 'Yesterday',
-  text: "The best online zoo I’ve met. My son delighted very much ljves to watch gouillas. Online zoo is one jf the ways to instill a love for animals.The best online zoo I’ve met. My son delighted very much ljves to watch gouillas. Online zoo is one jf the ways to instill a love for animals.<br>The best online zoo I’ve met. My son delighted very much ljves to watch gouillas. Online zoo is one jf the ways to instill a love for animals.The best online zoo I’ve met. My son delighted very much ljves to watch gouillas.<br>Online zoo is"
+  from: 'Испания',
+  time: 'Вчера',
+  text: "Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами. Онлайн-зоопарк — это один из способов привить любовь к животным. Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами. Онлайн-зоопарк — это один из способов привить любовь к животным.<br>Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами. Онлайн-зоопарк — это один из способов привить любовь к животным. Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами.<br>Онлайн-зоопарк — это"
 }, {
-  name: 'John Doe',
+  name: 'Джон До',
   photo: `${_assets_users_user_6_jpg__WEBPACK_IMPORTED_MODULE_5__}`,
-  from: 'USA',
-  time: 'Yesterday',
-  text: "The best online zoo I’ve met. My son delighted very much ljves to watch gouillas. Online zoo is one jf the ways to instill a love for animals.The best online zoo I’ve met. My son delighted very much ljves to watch gouillas. Online zoo is one jf the ways to instill a love for animals.<br>The best online zoo I’ve met. My son delighted very much ljves to watch gouillas. Online zoo is one jf the ways to instill a love for animals.The best online zoo I’ve met. My son delighted very much ljves to watch gouillas.<br>Online zoo is"
+  from: 'США',
+  time: 'Вчера',
+  text: "Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами. Онлайн-зоопарк — это один из способов привить любовь к животным. Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами. Онлайн-зоопарк — это один из способов привить любовь к животным.<br>Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами. Онлайн-зоопарк — это один из способов привить любовь к животным. Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами.<br>Онлайн-зоопарк — это"
 }, {
-  name: 'Shōta Isamu',
+  name: 'Исаму Харуки',
   photo: `${_assets_users_user_7_jpg__WEBPACK_IMPORTED_MODULE_6__}`,
-  from: 'Japan',
-  time: 'Yesterday',
-  text: "The best online zoo I’ve met. My son delighted very much ljves to watch gouillas. Online zoo is one jf the ways to instill a love for animals.The best online zoo I’ve met. My son delighted very much ljves to watch gouillas. Online zoo is one jf the ways to instill a love for animals.<br>The best online zoo I’ve met. My son delighted very much ljves to watch gouillas. Online zoo is one jf the ways to instill a love for animals.The best online zoo I’ve met. My son delighted very much ljves to watch gouillas.<br>Online zoo is"
+  from: 'Япония',
+  time: 'Вчера',
+  text: "Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами. Онлайн-зоопарк — это один из способов привить любовь к животным. Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами. Онлайн-зоопарк — это один из способов привить любовь к животным.<br>Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами. Онлайн-зоопарк — это один из способов привить любовь к животным. Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами.<br>Онлайн-зоопарк — это"
 }, {
-  name: 'Aigerim Aigul',
+  name: 'Айгуль Джонарбаева',
   photo: `${_assets_users_user_icon_svg__WEBPACK_IMPORTED_MODULE_0__}`,
-  from: 'Kazakhstan',
-  time: 'Yesterday',
-  text: "The best online zoo I’ve met. My son delighted very much ljves to watch gouillas. Online zoo is one jf the ways to instill a love for animals.The best online zoo I’ve met. My son delighted very much ljves to watch gouillas. Online zoo is one jf the ways to instill a love for animals.<br>The best online zoo I’ve met. My son delighted very much ljves to watch gouillas. Online zoo is one jf the ways to instill a love for animals.The best online zoo I’ve met. My son delighted very much ljves to watch gouillas.<br>Online zoo is"
+  from: 'Казахстан',
+  time: 'Вчера',
+  text: "Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами. Онлайн-зоопарк — это один из способов привить любовь к животным. Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами. Онлайн-зоопарк — это один из способов привить любовь к животным.<br>Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами. Онлайн-зоопарк — это один из способов привить любовь к животным. Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами.<br>Онлайн-зоопарк — это"
 }, {
-  name: 'Miina Iiris',
+  name: 'Милана Ритс',
   photo: `${_assets_users_user_9_jpg__WEBPACK_IMPORTED_MODULE_7__}`,
-  from: 'Finland',
-  time: 'Yesterday',
-  text: "The best online zoo I’ve met. My son delighted very much ljves to watch gouillas. Online zoo is one jf the ways to instill a love for animals.The best online zoo I’ve met. My son delighted very much ljves to watch gouillas. Online zoo is one jf the ways to instill a love for animals.<br>The best online zoo I’ve met. My son delighted very much ljves to watch gouillas. Online zoo is one jf the ways to instill a love for animals.The best online zoo I’ve met. My son delighted very much ljves to watch gouillas.<br>Online zoo is"
+  from: 'Финляндия',
+  time: 'Вчера',
+  text: "Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами. Онлайн-зоопарк — это один из способов привить любовь к животным. Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами. Онлайн-зоопарк — это один из способов привить любовь к животным.<br>Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами. Онлайн-зоопарк — это один из способов привить любовь к животным. Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами.<br>Онлайн-зоопарк — это"
 }, {
-  name: 'Natalia Romanova',
+  name: 'Наталья Романова',
   photo: `${_assets_users_user_10_jpg__WEBPACK_IMPORTED_MODULE_8__}`,
-  from: 'Russia',
-  time: 'Yesterday',
-  text: "The best online zoo I’ve met. My son delighted very much ljves to watch gouillas. Online zoo is one jf the ways to instill a love for animals.The best online zoo I’ve met. My son delighted very much ljves to watch gouillas. Online zoo is one jf the ways to instill a love for animals.<br>The best online zoo I’ve met. My son delighted very much ljves to watch gouillas. Online zoo is one jf the ways to instill a love for animals.The best online zoo I’ve met. My son delighted very much ljves to watch gouillas.<br>Online zoo is"
+  from: 'Россия',
+  time: 'Вчера',
+  text: "Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами. Онлайн-зоопарк — это один из способов привить любовь к животным. Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами. Онлайн-зоопарк — это один из способов привить любовь к животным.<br>Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами. Онлайн-зоопарк — это один из способов привить любовь к животным. Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами.<br>Онлайн-зоопарк — это"
 }, {
-  name: 'Oddbjørn Bjarte',
+  name: 'Лоун Бридж',
   photo: `${_assets_users_user_11_jpg__WEBPACK_IMPORTED_MODULE_9__}`,
-  from: 'Norway',
-  time: 'Yesterday',
-  text: "The best online zoo I’ve met. My son delighted very much ljves to watch gouillas. Online zoo is one jf the ways to instill a love for animals.The best online zoo I’ve met. My son delighted very much ljves to watch gouillas. Online zoo is one jf the ways to instill a love for animals.<br>The best online zoo I’ve met. My son delighted very much ljves to watch gouillas. Online zoo is one jf the ways to instill a love for animals.The best online zoo I’ve met. My son delighted very much ljves to watch gouillas.<br>Online zoo is"
-}];
+  from: 'Норвегия',
+  time: 'Вчера',
+  text: "Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами. Онлайн-зоопарк — это один из способов привить любовь к животным. Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами. Онлайн-зоопарк — это один из способов привить любовь к животным.<br>Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами. Онлайн-зоопарк — это один из способов привить любовь к животным. Лучший онлайн-зоопарк, который я встречал. Мой сын очень рад, ему нравится наблюдать за гориллами.<br>Онлайн-зоопарк — это"
 
 /***/ }),
 
