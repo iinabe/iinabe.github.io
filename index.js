@@ -25,63 +25,63 @@ __webpack_require__.r(__webpack_exports__);
 
 
 const petsInfo = [{
-  name: "GIANT PANDAS",
-  place: "Native to Southwest China",
+  name: "ГИГАНТСКИЕ ПАНДЫ",
+  place: "Родом из Китая",
   photo: "assets/giant-pandas.png",
   food: "assets/banana-bamboo_icon.svg"
 }, {
-  name: "EAGLES",
-  place: "Native to South America",
+  name: "ОРЛЫ",
+  place: "Родом из Южной Америки",
   photo: "assets/eagles.png",
   food: "assets/meet-fish_icon.svg"
 }, {
-  name: "GORILLAS",
-  place: "Native to Congo",
+  name: "ГОРИЛЛЫ",
+  place: "Родом из Конго",
   photo: "assets/gorillas.png",
   food: "assets/banana-bamboo_icon.svg"
 }, {
-  name: "TWO-TOED SLOTH",
-  place: "Mesoamerica, South America",
+  name: "ДВУПАЛЫЙ ЛЕНЕНИЦ",
+  place: "Южная Америка",
   photo: "assets/two-toed-sloth.png",
   food: "assets/banana-bamboo_icon.svg"
 }, {
-  name: "CHEETAHS",
-  place: "Native to Africa",
+  name: "ГЕПАРДЫ",
+  place: "Родом из Африки",
   photo: "assets/cheetahs.png",
   food: "assets/meet-fish_icon.svg"
 }, {
-  name: "PENGUINS",
-  place: "Native to Antarctica",
+  name: "ПИНГВИНЫ",
+  place: "Родом из Антарктики",
   photo: "assets/penguins.png",
   food: "assets/meet-fish_icon.svg"
 }, {
-  name: "SIBERIAN TIGER",
-  place: "Native to Russian Far East",
+  nname: "СИБИРСКИЙ ТИГР",
+  place: "Родом из Дальнего Востока",
   photo: `${_assets_pets_siberian_tiger_jpg__WEBPACK_IMPORTED_MODULE_0__}`,
   food: "assets/meet-fish_icon.svg"
 }, {
-  name: "GRIZZLY BEAR",
-  place: 'Native to North America',
+  name: "МЕДВЕДЬ ГРИЗЛИ",
+  place: 'Родом из Северной Америки',
   photo: `${_assets_pets_grizzly_bear_jpg__WEBPACK_IMPORTED_MODULE_1__}`,
   food: "assets/meet-fish_icon.svg"
 }, {
-  name: 'ASIAN ELEPHANT',
-  place: 'Native to India and Southeast Asia',
+  name: 'АЗИАТСКИЙ СЛОН',
+  place: 'Родом из Индии и Юго-Восточной Азии',
   photo: `${_assets_pets_asian_elephant_jpg__WEBPACK_IMPORTED_MODULE_2__}`,
   food: 'assets/banana-bamboo_icon.svg'
 }, {
-  name: 'GREY WOLF',
-  place: 'Native to Eurasia and North America',
+  name: 'СЕРЫЙ ВОЛК',
+  place: 'Родом из Евразии и Северной Америки',
   photo: `${_assets_pets_wolf_webp__WEBPACK_IMPORTED_MODULE_3__}`,
   food: "assets/meet-fish_icon.svg"
 }, {
-  name: 'MEERKAT',
-  place: 'Native to Southern Africa',
+  name: 'СУРИКАТ',
+  place: 'Родом из Южной Африки',
   photo: `${_assets_pets_meerkat_jpg__WEBPACK_IMPORTED_MODULE_4__}`,
   food: "assets/banana-bamboo_icon.svg"
 }, {
-  name: 'CHICKEN',
-  place: 'Originally from Southeastern Asia',
+  name: 'КУРИЦА',
+  place: 'Родом из Юго-Восточной Азии',
   photo: `${_assets_pets_chicken_jpg__WEBPACK_IMPORTED_MODULE_5__}`,
   food: 'assets/banana-bamboo_icon.svg'
 }];
